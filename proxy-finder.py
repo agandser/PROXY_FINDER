@@ -8,17 +8,6 @@ Reset="\033[0m"
 Red="\033[1;31m"
 Purple="\033[0;35m"
 
-
-print " "+Green+"   ############################"
-print " "+Green+"   PROXY FINDER FOR 1001_ACCOUNT"
-print " "+Green+"   ############################"
-print " "+Green+"   [+]: Developer: SABRI ZAKI :[+]"
-print " "+Green+"   ############################"
-print ""
-print " "+Grey+" █║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║║█"
-print "       "+Green+" 1001_ACCOUNT WAS HEAR"
-print "           "+Blue+"" 
-
 import time
 import itertools
 import threading
